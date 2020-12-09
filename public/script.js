@@ -147,10 +147,9 @@ pre {
   max-width: 48%;
   width: 150vh;
   height: 90%;
-  background-color: transparent
-  background-color: #101010;
   border-radius: 10px;
   box-sizing: border-box;
+  background-color: transparent;
   border: 4px solid #C8C8C8;
   padding: 10px;
   color: #FDF6E3;
