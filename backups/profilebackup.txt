@@ -1,0 +1,99 @@
+{
+  "id": 4045907,
+  "username": "RayhanADev",
+  "url": "/@RayhanADev",
+  "image": "https://storage.googleapis.com/replit/images/1607105377871_db879b952082bc64d83323abc9a14a7e.png",
+  "karma": 1032,
+  "firstName": "Oh",
+  "lastName": "Hello!",
+  "fullName": "Oh Hello!",
+  "displayName": "Oh",
+  "isLoggedIn": true,
+  "bio": "Hiya, name’s Ray. I love Frontend Development! || Check out my GitHub: https://github.com/RayhanADev ! ||🄵🅄🅁🅁🄴🅃🅂",
+  "timeCreated": "2020-09-09T12:47:49.218Z",
+  "organization": {
+    "name": "Furret Developer"
+  },
+  "subscription": {
+    "planId": "hacker2"
+  },
+  "languages": [
+    {
+      "id": "nodejs",
+      "displayName": "Node.js",
+      "key": "nodejs",
+      "category": "Practical",
+      "tagline": "Evented I/O for V8 JavaScript.",
+      "icon": "https://repl.it/public/images/languages/nodejs.svg",
+      "isNew": false
+    },
+    {
+      "id": "html",
+      "displayName": "HTML, CSS, JS",
+      "key": "html",
+      "category": "Web",
+      "tagline": "The languages that make up the web.",
+      "icon": "/public/images/languages/web_project.svg",
+      "isNew": false
+    },
+    {
+      "id": "python3",
+      "displayName": "Python",
+      "key": "python3",
+      "category": "Practical",
+      "tagline": "A dynamic language emphasizing readability.",
+      "icon": "https://repl.it/public/images/languages/python.svg",
+      "isNew": false
+    },
+    {
+      "id": "javascript",
+      "displayName": "JavaScript",
+      "key": "javascript",
+      "category": "Web",
+      "tagline": "The de facto language of the Web.",
+      "icon": "/public/images/languages/javascript.svg",
+      "isNew": false
+    },
+    {
+      "id": "bash",
+      "displayName": "Bash",
+      "key": "bash",
+      "category": "Practical",
+      "tagline": "The classic Unix shell",
+      "icon": "https://icons.util.repl.co/bash.svg",
+      "isNew": false
+    },
+    {
+      "id": "polygott",
+      "displayName": "polygott",
+      "key": "polygott",
+      "category": "Hidden",
+      "tagline": "An elegant image for a more civilized age",
+      "icon": "https://repl.it/public/images/languages/language.svg",
+      "isNew": false
+    },
+    {
+      "id": "lolcode",
+      "displayName": "LOLCODE",
+      "key": "lolcode",
+      "category": "Esoteric",
+      "tagline": "The basic language of lolcats.",
+      "icon": "/public/images/languages/lolcode.svg",
+      "isNew": false
+    }
+  ],
+  "roles": [
+    {
+      "id": "4045907:self_learner",
+      "name": "self learner",
+      "key": "SELF_LEARNER",
+      "tagline": null
+    },
+    {
+      "id": "4045907:explorer",
+      "name": "explorer",
+      "key": "EXPLORER",
+      "tagline": "Helps test Repl.it beta features"
+    }
+  ]
+}
